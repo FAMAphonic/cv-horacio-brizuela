@@ -1,60 +1,56 @@
-# Horacio Brizuela — Multidisciplinary Professional Profile
+# Horacio Brizuela – International Professional Profile
 
-![Horacio Brizuela – Professional Photo](./img/horacio-profile.jpg)
+<p align="center">
+  <img src="./img/horacio-profile.jpg" width="250">
+</p>
 
-(EN) “Consulting, Research and management | Artificial Intelligence | Teaching”
-(ES) “Consultoría y gestión | Inteligencia Artificial | Docencia”  
-
-
----
-
-## 🧭 Overview | Presentación general
-
-(EN) Horacio Brizuela is an internationally experienced **Artificial Intelligence modeller**, **digital transformation strategist**, and **senior university professor**, with over 15 years of leadership in technology, education, and public policy.
-
-(ES) Especializado en IA, sistemas complejos, transformación organizacional y estrategia de innovación, su perfil combina **ciencia, gestión, docencia y pensamiento sistémico**. Ha asesorado a Ministerios, universidades, empresas tecnológicas y organismos internacionales.
-
-(EN) > This repositoty shows an integrated and bilingual view of this skills. You can navigate by topic and language.
-(ES) > Este repositorio presenta una visión integrada y bilingüe de sus competencias. Puede navegar según idioma y/o enfoque.
+**“Deep knowledge, clear teaching. Education that transforms.”**
 
 ---
 
-## 🌐 Navegación | Language Navigation
-
-- 🇪🇸 [Brochure personal en Español](./brochures/brochure_es.md)
-- 🇬🇧 [Personal Brochure in English](./brochures/brochure_en.md)
-
----
-
-## 🔎 Exploración por enfoque
-
-| Área                  | Enlace                                             |
-|-----------------------|----------------------------------------------------|
-| 🤖 Inteligencia Artificial | [`/branches/ai/`](./branches/ai/)                     |
-| 🎓 Docencia y educación     | [`/branches/teaching/`](./branches/teaching/)         |
-| 📊 Dirección y Management   | [`/branches/management/`](./branches/management/)     |
-| 🧭 Consultoría Estratégica  | [`/branches/consulting/`](./branches/consulting/)     |
+## 🌐 Languages  
+Looking for the Spanish version?  
+👉 [Ver versión en español](https://github.com/FAMAphonic/cv-horacio-brizuela/tree/spanish)
 
 ---
 
-## 📄 CV completo | complete CV
+## 🧭 Overview
 
-[📎 Descargar CV completo en PDF (Español) ](./Horacio_Brizuela_CV_2025.pdf)
+Horacio Brizuela is an internationally experienced **AI modeller**, **digital transformation strategist**, and **university professor** with over 15 years of leadership in public administration, technology, and education.
 
-[📎 Download complete CV as PDF (English) ](./Horacio_Brizuela_CV_2025.pdf)
+He has led and advised national and international projects (World Bank, ESA, ARSAT, Ministries, universities), integrating deep technical knowledge with executive strategy, project design, and academic excellence.
 
 ---
 
-## Contact data
+## 🎯 Key Areas of Expertise
 
-📧 Email: Horacio.brizuela@gmail.com
-🌐 Web / CV completo: 
-📞 WhatsApp: [+54 11 33754883] 
+- 🤖 Artificial Intelligence and Deep Learning
+- 📊 Business Administration, Finance & Control (MBA-level)
+- 🧠 Higher Education, Psychopedagogy & Learning Innovation
+- 🏛️ Public Sector Reform and Digital Transformation
+- 🔬 Research in AI for Images, Text, and Scientific Data
 
+---
 
-## 🛡️ Licencia
+## 📄 Download full CV (PDF)
 
-**Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International**  
+[📎 Horacio_Brizuela_CV_2025.pdf](./Horacio_Brizuela_CV_2025.pdf)
+
+Includes full work experience, education, academic projects, certifications, and references.
+
+---
+
+## 📬 Contact
+
+- 📧 [horacio.brizuela@gmail.com](mailto:horacio.brizuela@gmail.com)  
+- 📞 [+54 11 3375 4883](https://wa.me/541133754883)  
+- 🌐 GitHub: [github.com/FAMAphonic](https://github.com/FAMAphonic)
+
+---
+
+## 🛡️ License
+
+**Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
 🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-> Última actualización  | Updated:   Julio (July)  2025
+> Last update: **July 2025**
