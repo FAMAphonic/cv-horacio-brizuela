@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="./img/horacio-profile.jpg" width="250">
+  <img src="./horacio-profile.jpg" width="250">
+
 </p>
 
 **“Deep knowledge, clear teaching. Education that transforms.”**
