@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="./img/horacio-profile.jpg" width="250">
-  <img src="./horacio-profile.jpg" width="250">
+  <img src="./horacio-profile.jpeg" width="250">
 
 </p>
 
