@@ -1,70 +1,74 @@
-# cv-horacio-brizuela
-Curriculum Vitae académico y profesional de Horacio Brizuela
+# 🧑‍🏫 Horacio Brizuela – Curriculum Vitae
 
-# 🧑‍🏫 Horacio Brizuela
-
-**“Conocimiento profundo, enseñanza clara. Formación para transformar.”**  
-Lic. en Física | MBA | Master en Administración, Finanzas y Control |  
-Diploma en Ingeniería de Sistemas | Posgrado en Inteligencia Artificial  
-**Experiencia internacional en ciencia, tecnología y gestión**
+**“Deep knowledge, clear teaching. Education that transforms.”**
 
 ---
 
-## 📚 Áreas de Enseñanza
+## 🌐 English | 🇪🇸 Spanish
 
-### 🔬 Ciencia y Tecnología
-- Física, Matemática, Estadística
-- Inteligencia Artificial (ChatBots, LLMs, razonamiento)
-- Ciencia de Datos: procesamiento de lenguaje, imágenes y series temporales
-- Arquitectura de sistemas de IA
-- Programación de algoritmos de IA (Python, Julia, R)
-
-### 💼 Administración y Transformación Digital
-- MBA con enfoque integral en Finanzas y Control
-- Modernización de negocios mediante IA
-- Project management con estándares internacionales (PMI, PRINCE2)
-
-### 🧪 Gestión de la Innovación
-- Universidades, Empresas y Administración Pública
-- Estrategia, teoría del cambio, impacto y tecnología
-- Analista de innovación digital
-- Redacción de proyectos internacionales (BM, UE)
-
-### 🧑‍🏫 Educación y Psicopedagogía
-- Profesor de Ciencias de la Educación
-- Análisis del impacto de la IA en la enseñanza-aprendizaje
-- Psicopedagogía aplicada a modelos de IA generativa
+- [View short brochure (EN)](#short-brochure)
+- [Ver presentación breve (ES)](https://github.com/FAMAphonic/cv-horacio-brizuela/tree/main)
+- [📄 View full CV in PDF](./Horacio_Brizuela_CV_2025.pdf)
 
 ---
 
-## 🛡️ Calidad Académica
-- Más de 30 años de docencia universitaria y posgrado
-- Visión integral: ciencia, educación, empresa y sociedad
-- Formación interdisciplinaria, aplicada y actualizada
+## 📘 Short Brochure
+
+### Academic Background
+- Degree in Physics  
+- Master in Business Administration (MBA)  
+- Master in Administration, Finance and Control  
+- Diploma in Systems Engineering  
+- Postgraduate degree in Artificial Intelligence  
+- International academic and consulting experience
+
+### Teaching and Expertise Areas
+
+#### 🔬 Science and Technology
+- University-level Physics, Mathematics, Statistics  
+- Artificial Intelligence (ChatBots, Language Models, Reasoning)  
+- Data Science: NLP, image processing, time series  
+- AI Systems Architecture  
+- Algorithm programming for AI and Data Science (Python, Julia, R)
+
+#### 💼 Business and Digital Transformation
+- Business Administration with an integrated vision  
+- MBA in Finance, Control and Strategy  
+- Digital Transformation: redesigning business with AI  
+- Project management with international standards (PMI, PRINCE2)
+
+#### 🧪 Innovation and Change
+- Innovation in Universities, Companies and Public Administration  
+- Strategy, change theory, impact assessment and technological tools  
+- Digital innovation analyst  
+- Project author for international innovation funding (World Bank, EU)
+
+#### 🧑‍🏫 Education and Psychopedagogy
+- Professor of Education Sciences  
+- Research on the impact of AI in learning processes  
+- AI and cognitive processes in education and psychopedagogy
 
 ---
 
-## 📬 Contacto Profesional
+## 🛡️ Academic Quality
+
+- Over 30 years of university and postgraduate teaching  
+- Interdisciplinary training: science, management, technology  
+- Clear, rigorous and applied teaching style
+
+---
+
+## 📬 Professional Contact
 
 - 📧 Email: [horacio.brizuela@gmail.com](mailto:horacio.brizuela@gmail.com)  
 - 📞 WhatsApp: [+54 11 3375 4883](https://wa.me/541133754883)  
-- 🌐 CV completo: 👉 [Ver PDF](./Horacio_Brizuela_CV_2025.pdf)
+- 📄 Full CV: [`Horacio_Brizuela_CV_2025.pdf`](./Horacio_Brizuela_CV_2025.pdf)
 
 ---
 
-## 📄 Curriculum Vitae Completo
+## 🛡️ License
 
-Accedé a mi CV profesional detallado con toda la trayectoria académica, publicaciones, proyectos, experiencia internacional y formación continua:
-
-📎 [`Horacio_Brizuela_CV_2025.pdf`](./Horacio_Brizuela_CV_2025.pdf)
-
----
-
-## 🛡️ Licencia
-
-Este contenido está licenciado bajo:  
-**Creative Commons Atribución – No Comercial – Sin Derivadas 4.0 Internacional (CC BY-NC-ND 4.0)**  
+**Creative Commons Attribution – NonCommercial – NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
 🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
----
-> Última actualización: **Julio 2025**
+> Last update: **July 2025**
