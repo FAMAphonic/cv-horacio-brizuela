@@ -1,17 +1,21 @@
 # Horacio Brizuela — Multidisciplinary Professional Profile
 
-“Consultoría y gestión | Inteligencia Artificial | Docencia”  
-“Consulting, Research and management | Artificial Intelligence | Teaching”
+![Horacio Brizuela – Professional Photo](./img/horacio-profile.jpg)
+
+(EN) “Consulting, Research and management | Artificial Intelligence | Teaching”
+(ES) “Consultoría y gestión | Inteligencia Artificial | Docencia”  
+
 
 ---
 
 ## 🧭 Overview | Presentación general
 
-Horacio Brizuela is an internationally experienced **Artificial Intelligence modeller**, **digital transformation strategist**, and **senior university professor**, with over 15 years of leadership in technology, education, and public policy.
+(EN) Horacio Brizuela is an internationally experienced **Artificial Intelligence modeller**, **digital transformation strategist**, and **senior university professor**, with over 15 years of leadership in technology, education, and public policy.
 
-Especializado en IA, sistemas complejos, transformación organizacional y estrategia de innovación, su perfil combina **ciencia, gestión, docencia y pensamiento sistémico**. Ha asesorado a Ministerios, universidades, empresas tecnológicas y organismos internacionales.
+(ES) Especializado en IA, sistemas complejos, transformación organizacional y estrategia de innovación, su perfil combina **ciencia, gestión, docencia y pensamiento sistémico**. Ha asesorado a Ministerios, universidades, empresas tecnológicas y organismos internacionales.
 
-> Este repositorio presenta una visión integrada y bilingüe de sus competencias. Puede navegar según idioma y/o enfoque.
+(EN) > This repositoty shows an integrated and bilingual view of this skills. You can navigate by topic and language.
+(ES) > Este repositorio presenta una visión integrada y bilingüe de sus competencias. Puede navegar según idioma y/o enfoque.
 
 ---
 
@@ -40,6 +44,13 @@ Especializado en IA, sistemas complejos, transformación organizacional y estrat
 [📎 Download complete CV as PDF (English) ](./Horacio_Brizuela_CV_2025.pdf)
 
 ---
+
+## Contact data
+
+📧 Email: Horacio.brizuela@gmail.com
+🌐 Web / CV completo: 
+📞 WhatsApp: [+54 11 33754883] 
+
 
 ## 🛡️ Licencia
 
